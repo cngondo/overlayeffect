@@ -1,0 +1,23 @@
+body{
+    background-image: url("/images/lambo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.lambo{   
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.overlay{
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2000px;
+  background: rgba(0,0,0,0.5);
+  z-index: 10;
+}
+h1{
+  font-size: 70px;
+  z-index: 10;
+  opacity: 1;
+}
