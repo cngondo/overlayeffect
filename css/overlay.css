@@ -1,9 +1,9 @@
 body{
-    background-image: url("/images/lambo.jpg");
+    background-image: url("../images/lambo.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-.lambo{   
+.lambo{  
     width: 100%;
     height: 100%;
     position: relative;
